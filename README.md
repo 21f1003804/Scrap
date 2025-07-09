@@ -30,7 +30,7 @@ pip install aiohttp asyncio beautifulsoup4 uvloop
 🛠️ Installation
 Clone this repository:
 Copy
-git clone https://github.com/yourusername/webhub-scraper-educational
+git clone https://github.com/21f1003804/Scrap.git
 cd webhub-scraper-educational
 Install dependencies:
 Copy
